@@ -29,13 +29,13 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",
-"https://graph.org/file/ba7699c28dab379b518ca.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/82fd67aa56eb1b299e08d.mp4",
-"https://graph.org/file/318eac81e3d4667edcb77.mp4",
-"https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
-"https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+"https://telegra.ph/file/f3d15634b671416a68cef.mp4",
+"https://telegra.ph/file/6f507524d8f4f6f66867c.mp4",
+"https://telegra.ph/file/eba398363ad7af383c9ba.mp4",
+"https://telegra.ph/file/b9d32416c96e3051d126d.mp4",
+"https://telegra.ph/file/f1dceb5fd5ca69e9f873f.mp4",
+"https://telegra.ph/file/95c4ff6367590362b8e9b.mp4",
+"https://telegra.ph/file/8cf37f9fb1ba2b54df5e2.mp4",
 
 ]
 
